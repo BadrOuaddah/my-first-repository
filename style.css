@@ -1,4 +1,8 @@
-body.my_class_of_body{
-color : lime ;
-background-color: black;
+body.my_class_of_body {
+  color: lime;
+  background-color: black;
 }
+.center{
+    text-align: center;
+}
+
